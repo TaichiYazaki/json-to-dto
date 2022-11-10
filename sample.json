@@ -1,0 +1,23 @@
+{
+	"results": {
+		"api_version": "1.20",
+		"results_available": 1,
+		"results_returned": "1",
+		"results_start": 1,
+		"shop": [
+			{
+				"address": "福岡県福岡市東区箱崎２-１０-３3",
+				"desc": "1",
+				"genre": {
+					"name": "カフェ・スイーツ"
+				},
+				"id": "J001280682",
+				"name": "こぐまや洋菓子店",
+				"name_kana": "こぐまやようがしてん",
+				"urls": {
+					"pc": "https://www.hotpepper.jp/strJ001280682/?vos=nhppalsa000016"
+				}
+			}
+		]
+	}
+}
